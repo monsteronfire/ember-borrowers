@@ -1,7 +1,6 @@
 # Borrowers
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Playing with ember-cli, following the ember-cli-101 tutorial to build an app that keeps track of friends who've borrowed money from you.
 
 ## Prerequisites
 
